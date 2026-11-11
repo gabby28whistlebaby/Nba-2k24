@@ -203,4 +203,4 @@ This repository serves as the official landing page for NBA 2K24. The software i
 **Get the most recent version of NBA 2K24 today!**
 
 ---
-**Last updated:** 2026-11-11 10:10:32 UTC
+**Last updated:** 2026-11-11 18:17:32 UTC
